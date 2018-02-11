@@ -7,7 +7,7 @@ rng = numpy.random
 
 # Parameters
 learning_rate = 0.01
-training_epochs = 10
+training_epochs = 100
 display_step = 50
 
 train_X, train_Y, test_X, test_Y = get_data()
